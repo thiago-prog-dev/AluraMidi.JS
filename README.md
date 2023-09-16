@@ -1,6 +1,6 @@
 # AluraMidi.JS
 
-### HTML CSS E JavaScript
+### As linguagens utlizadas são: `HTML` `CSS` e `JavaScript`
 
 ### Feito por:
 Thiago da S. Oiveira
